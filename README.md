@@ -3,4 +3,4 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="left">Carmen González Borrego</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Pedagoga;Desarrolladora+de+aplicaciones;Mensista;Crochetera" alt="Typing SVG" /></a>
-<p align="center">Aquí puedes encontrar algunos de mis proyectos <img src="https://giphy.com/embed/yzjBvIh8wDhhSzLbLc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/stickers/Cinekid-3d-hand-finger-yzjBvIh8wDhhSzLbLc"></a></p>
+<p align="center">Aquí puedes encontrar algunos de mis proyectos <img src="https://giphy.com/stickers/Cinekid-3d-hand-finger-yzjBvIh8wDhhSzLbLc" wifth="35">
